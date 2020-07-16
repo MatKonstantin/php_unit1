@@ -5,20 +5,21 @@ services:
         image: nginx:latest
         ports:
             - "80:80"
-            - "443:443"
         volumes:
-            - /nginx/hosts:/etc/nginx/conf.d
-            - ./www:/var/www
-            - ./logs/nginx:/var/log/nginx
+            - ./nginx:/etc/nginx/conf.d
+            - ../www:/var/www
+            - ../logs/nginx:/var/log/nginx
         links:
             - php
 
     php:
-        build: /php
+        build: php
         links:
             - mysql
         volumes:
-            - ./www:/var/www
+            - ../www:/var/www
+            - ../logs/php/access.log:/var/log/access.log
+            - ../logs/php/error.log:/var/log/error.log
 
     mysql:
         image: mariadb:latest
@@ -30,7 +31,7 @@ services:
         ports:
             - "3306:3306"
         volumes:
-            - ./mysql:/var/lib/mysql
+            - ../mysql:/var/lib/mysql
 
     phpmyadmin:
         image: phpmyadmin/phpmyadmin

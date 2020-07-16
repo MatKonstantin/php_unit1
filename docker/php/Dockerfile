@@ -6,9 +6,17 @@ RUN apt-get update && apt-get install -y \
         git \
         libfreetype6-dev \
         libjpeg62-turbo-dev \
-        libmcrypt-dev \
-        libpng12-dev \
-    && docker-php-ext-install -j$(nproc) iconv mcrypt mbstring mysqli pdo pdo_mysql mysqli zip \
+        libpng-dev \
+        libpq-dev \
+        libzip-dev \
+        zip \
+        procps \
+        nano \
+    && docker-php-ext-install -j$(nproc) iconv mbstring\
+    && docker-php-ext-install -j$(nproc) pgsql \
+    && docker-php-ext-install -j$(nproc) pdo_pgsql \
+    && docker-php-ext-configure zip --with-libzip \
+    && docker-php-ext-install -j$(nproc) zip \
     && docker-php-ext-configure gd --with-freetype-dir=/usr/include/ --with-jpeg-dir=/usr/include/ \
     && docker-php-ext-install -j$(nproc) gd
 

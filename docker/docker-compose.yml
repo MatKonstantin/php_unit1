@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+    nginx:
+        image: nginx:latest
+        ports:
+            - "80:80"
+            - "443:443"
+        volumes:
+            - /nginx/hosts:/etc/nginx/conf.d
+            - ./www:/var/www
+            - ./logs/nginx:/var/log/nginx
+        links:
+            - php
+
+    php:
+        build: /php
+        links:
+            - mysql
+        volumes:
+            - ./www:/var/www
+
+    mysql:
+        image: mariadb:latest
+        environment:
+            MYSQL_USER: test_user
+            MYSQL_PASSWORD: 123456
+            MYSQL_ROOT_PASSWORD: example
+            MYSQL_DATABASE: testDB
+        ports:
+            - "3306:3306"
+        volumes:
+            - ./mysql:/var/lib/mysql
+
+    phpmyadmin:
+        image: phpmyadmin/phpmyadmin
+        links: 
+            - mysql:db
+        ports:
+            - 8765:80
+        environment:
+            MYSQL_ROOT_PASSWORD: 123456
+        depends_on:
+            - mysql

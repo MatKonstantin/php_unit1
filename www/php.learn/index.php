@@ -3,6 +3,8 @@
   include 'config.php';
   $publisher = ['Издатель 1', 'Издатель 2', 'Издатель 3'];
 
+  $page = 'index';
+
   $menu = [
     'Доставка' => 'delivery.php',
     'Контакты' => 'contacts.php',
@@ -13,6 +15,39 @@
       'Action2' => 'action2.php'
     ]
   ];
+
+  $book = [
+    'idbook' => 123,
+    'title' => 'Название книги',
+    'author' => 'Имя автора',
+    'description' => 'описание книги',
+    'price' => 1500
+  ];
+  $books = [];
+  $books[] = $book;
+  $books[] = [
+    'idbook' => 345,
+    'title' => 'Название книги2',
+    'author' => 'Имя автора2',
+    'description' => 'описание книги2',
+    'price' => 1500
+  ];
+  $books[] = [
+    'idbook' => 234,
+    'title' => 'Название книги3',
+    'author' => 'Имя автора3',
+    'description' => 'описание книги3',
+    'price' => 1500
+  ];
+  $books[] = [
+    'idbook' => 541,
+    'title' => 'Название книги4',
+    'author' => 'Имя автора4',
+    'description' => 'описание книги4',
+    'price' => 1500
+  ];
+
+  $categories = ['Категория 1', 'Категория 2', 'Категория 3', 'Категория 4'];
   
   $lastName = 'Пупкин';
   $email = 'some@some.ru';
@@ -87,7 +122,38 @@ $isPost = false;
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
+  <?php
+    if(count($menu)){
+
+      echo '<ul class="navbar-nav mr-auto">';
+      
+      foreach($menu as $textLink => $url){
+        if( is_string($url)){
+          echo <<<LI
+          <li class="nav-item active">
+            <a class="nav-link" href="$url">$textLink</a>
+          </li>
+LI;
+        } else {
+          echo <<<STARTDROPDOWN
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Dropdown
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+STARTDROPDOWN;
+          foreach($url as $textDropDownLink => $urlDropDown){
+            echo <<<A
+            <a class="dropdown-item" href="$urlDropDown">$textDropDownLink</a>
+A;
+          }
+          echo '</div></li>';
+        }
+      }
+      echo '</ul>';
+    }
+  ?>
+    <!--ul class="navbar-nav mr-auto">
       <li class="nav-item active">
         <a class="nav-link" href="<?= $menu['Доставка']?>">Доставка</a>
       </li>
@@ -111,7 +177,7 @@ $isPost = false;
           <a class="dropdown-item" href="#">Something else here</a>
         </div>
       </li>
-    </ul>
+    </ul-->
 
   </div>
   </div>
@@ -125,15 +191,25 @@ $isPost = false;
   <h4>Категория</h4>
   
   <div class="row">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
+  <?php
+    if( count($categories) ) {
+      $i = 0;
+      while( $i < count($categories) ){
+        echo "<a class=\"dropdown-item\" href=\"#\">" . $categories[$i] ."</a>";
+        $i++;
+      }
+  ?>
+    <!--a class="dropdown-item" href="#"><?= $categories[0] ?></!--a>
+    <a class="dropdown-item" href="#"><?= $categories[0] ?></a>
+    <a class="dropdown-item" href="#"><?= $categories[0] ?></a>
+    <a-- class="dropdown-item" href="#"><?= $categories[0] ?></a-->
+  <?php
+    } else {
+  ?>
+    <a class="dropdown-item" href="#">Эелементов нет</a>
+  <?php
+    }
+  ?>
   </div>
  <hr>
          
@@ -159,27 +235,28 @@ $isPost = false;
   <div class="row">
   <ul class="list-group col-md-12 col-sm-12">
   <?php
-
-  $i = 0;
-
+  if( $length = count($publisher) ){
+    for($i = 0; $i < $length; ++$i ){
+      echo <<<LI
+    <li class="list-group-item">
+      <input type="checkbox"  id="exampleCheck{$i}" name="publisher[]" value="{$i}">
+      <label class="form-check-label" for="exampleCheck{$i}"> {$publisher[$i]} </label>
+    </li>
+LI;
+    }
   ?>
-    <li class="list-group-item">
-      <input type="checkbox"   id="exampleCheck1" name="publisher[]" value="0">
-      <label class="form-check-label" for="exampleCheck1"><?= $publisher[$i++] ?></label>
-    </li>
-    <li class="list-group-item">
-      <input type="checkbox" id="exampleCheck2" name="publisher[]" value="0">
-      <label class="form-check-label" for="exampleCheck2"><?= $publisher[$i++] ?></label>
-    </li>
-    <li class="list-group-item">
-      <input type="checkbox" id="exampleCheck3" name="publisher[]" value="0">
-      <label class="form-check-label" for="exampleCheck3"><?= $publisher[$i++] ?></label>
-    </li>
     <li class="list-group-item">
       <button type="button" class="btn btn-success">Найти</button>    
     </li>
   </ul>
 
+  <?php
+    } else {
+  ?>
+    <li class="list-group-item">элементов нет</li>
+  <?php
+    }
+  ?>
   </div>
  <hr>
 
@@ -187,94 +264,49 @@ $isPost = false;
 </div>
 
 <div class="col-md-9 col-sm-9 ">
-  <h1>Каталог</h1>
+  <!-- h1>Каталог</!-->
 
   <?php
+
+  switch( $page ){
+    case 'index' : echo '<h1>Каталог</h1>'; break;
+    case 'delivery' : echo '<h1>Доставка</h1>'; break;
+    case 'contacts' : echo '<h1>Контакты</h1>'; break;
+    case 'login' : echo '<h1>Вход</h1>'; break;
+    case 'basket' : echo '<h1>Корзина</h1>'; break;
+    default: echo '<h1>Страницы не найдена</h1>';
+  }
 
   $i = 0;
   $i++;
   echo $i, ' ', $i < 10;
 
+  $i = 0;
+  foreach( $books as list($idbook, $title, $author, $description, $price) ){
+    if($i % 3 == 0){
+      echo '<div class="card-deck">';
+      $i = 0;
+    }
+    
+    echo  <<<CARD
+    <div class="card">        
+      <div class="card-body">
+        <img src="http://placehold.it/150x220"  alt="...">
+        <h3 class="card-title">{$price}руб</h3>
+        <p class="card-text"><small class="text-muted">Автор: {$author}</small></p>
+        <p class="card-text">{$description} <a href="#">Полезное</a></p>
+      </div>
+      <div class="card-footer">
+        <button type="button" class="btn btn-primary">В корзину</button>
+      </div>
+    </div>
+CARD;
+
+    echo ($i == 2) ? '</div>' : '';
+  }
+
   ?>
-  <div class="card-deck"> 
-      <div class="card">        
-        <div class="card-body">
-          <img src="http://placehold.it/150x220"  alt="...">
-          <h3 class="card-title">1200руб</h3>
-          <p class="card-text"><small class="text-muted">Автор: dfgdfg</small></p>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. Издательство: <a href="#">Полезное</a></p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">В корзину</button>
-        </div>
-       </div>
-
-      <div class="card">
-        <div class="card-body">
-          <img src="http://placehold.it/150x220"  alt="...">
-          <h3 class="card-title">800руб</h3>
-          <p class="card-text"><small class="text-muted">Автор: sdgfgfg</small></p>
-          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">В корзину</button>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-body">
-          <img src="http://placehold.it/150x220"  alt="...">
-          <h3 class="card-title">2100руб</h3>
-          <p class="card-text"><small class="text-muted">Автор: dfgd</small></p>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">В корзину</button>
-        </div>
-      </div>
-      
-  </div>
-
-
-  <div class="card-deck">
-
-      <div class="card">        
-        <div class="card-body">
-          <img src="http://placehold.it/150x220"  alt="...">
-          <h3 class="card-title">1200руб</h3>
-          <p class="card-text"><small class="text-muted">Автор: dfgdfg</small></p>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. Издательство: <a href="#">Полезное</a></p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">В корзину</button>
-        </div>
-       </div>
-
-      <div class="card">
-        <div class="card-body">
-          <img src="http://placehold.it/150x220"  alt="...">
-          <h3 class="card-title">800руб</h3>
-          <p class="card-text"><small class="text-muted">Автор: sdgfgfg</small></p>
-          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">В корзину</button>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-body">
-          <img src="http://placehold.it/150x220"  alt="...">
-          <h3 class="card-title">2100руб</h3>
-          <p class="card-text"><small class="text-muted">Автор: dfgd</small></p>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">В корзину</button>
-        </div>
-      </div>
-      
-  </div>
+  
 
 
 </div>

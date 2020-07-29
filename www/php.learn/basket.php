@@ -9,6 +9,20 @@ echo $num % 10, "<hr />";
 echo $num % 100 < 5 || $num % 10 > 20, '<hr />';
 echo $num % 10 == 1;
 
+$basket = [ 2 => 1, 10 => 2];
+
+$word = 'товаров';
+if( $num % 100 < 5 || $num % 100 > 20 ){
+  if( $num % 10 == 1 ){
+    $word = 'товар';
+  }
+  if( $num % 10 > 1 && $num % 10 < 5 ){
+    $word = 'товара';
+  }
+}
+echo " ${num} ${word} ";
+
+
 ?><!doctype html>
 <html lang="en">
   <head>
@@ -105,34 +119,29 @@ echo $num % 10 == 1;
     <div class="col-md-6 order-md-2 mb-4">
       <h4 class="d-flex justify-content-between align-items-center mb-3">
         <span class="text-muted">Корзина</span>
-        <span class="badge badge-secondary badge-pill">2</span>
+        <span class="badge badge-secondary badge-pill">
+          <?= count($basket) ? count($basket) : 'товаров в корзине нет' ?>
+        </span>
       </h4>
       <ul class="list-group mb-3">
         <?php
-          $summa += 1500 * 1;
+          if( count($basket) ):
+            foreach( $basket as $id => $quantity ){
+              $summa += 1500 * $quantity;
         ?>
         <li class="list-group-item d-flex justify-content-between lh-condensed">
           <div>
             <h6 class="my-0">Название первой книги </h6>
             <small class="text-muted">краткое необходимое описание</small>
           </div>
-          <span class="text-muted">1500руб. * 1шт</span>
-          <span class="text-muted">1500руб.</span>
-          <span ><a href="#delete" class="btn btn-success btn-sm ">Удалить</a></span>
+          <span class="text-muted">1500руб. * <?= $quantity ?>шт</span>
+          <span class="text-muted"><?= 1500 * $quantity ?>руб.</span>
+          <span ><a href="?del=<?= $id ?>" class="btn btn-success btn-sm ">Удалить</a></span>
         </li>
-        <li class="list-group-item d-flex justify-content-between lh-condensed">
         <?php
-          $summa += 600 * 2;
+            }
+          endif;
         ?>
-          <div>
-            <h6 class="my-0">Название второй книги</h6>
-            <small class="text-muted">краткое необходимое описание</small>
-          </div>
-          <span class="text-muted">600руб. * 2шт</span>
-
-          <span class="text-muted">1200руб.</span>
-          <span ><a href="#delete" class="btn btn-success btn-sm ">Удалить</a></span>
-        </li>
 
         <li class="list-group-item d-flex justify-content-between">
           <span>Всего: </span>

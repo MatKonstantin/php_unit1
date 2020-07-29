@@ -21,3 +21,516 @@
 [24-Jul-2020 18:14:01 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 21
 [24-Jul-2020 18:14:01 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
 [24-Jul-2020 18:14:01 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[27-Jul-2020 15:34:23 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[27-Jul-2020 15:34:23 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[27-Jul-2020 15:34:23 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[27-Jul-2020 15:34:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[27-Jul-2020 15:34:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[27-Jul-2020 15:34:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:37:59 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:37:59 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:37:59 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:38:00 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:38:00 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:38:00 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:44:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:44:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:44:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:44:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:44:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:44:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:45:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:45:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:45:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:45:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:45:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:45:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:45:23 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:45:23 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:45:23 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:45:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 22
+[28-Jul-2020 15:45:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 27
+[28-Jul-2020 15:45:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 38
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 24
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 29
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 133
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 133
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 134
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 134
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 136
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 136
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 24
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 29
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 133
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 133
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 134
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 134
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Undefined variable: cateories in /var/www/php.learn/index.php on line 136
+[28-Jul-2020 15:49:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/index.php on line 136
+[28-Jul-2020 15:50:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 24
+[28-Jul-2020 15:50:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 29
+[28-Jul-2020 15:50:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 15:50:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 24
+[28-Jul-2020 15:50:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 29
+[28-Jul-2020 15:50:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 15:53:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 24
+[28-Jul-2020 15:53:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 29
+[28-Jul-2020 15:53:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:44 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:44 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:44 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:03:46 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:46 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:46 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:03:46 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:46 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:46 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:03:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:03:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:03:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:03:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:03:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:03:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:13:48 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:13:48 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:13:49 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:13:49 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 35
+[28-Jul-2020 16:13:49 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 40
+[28-Jul-2020 16:13:49 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 51
+[28-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:18:55 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:18:55 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:18:55 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:18:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:18:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:18:56 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:19:08 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:19:08 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:19:08 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:19:14 UTC] PHP Notice:  Undefined variable: nub in /var/www/php.learn/basket.php on line 15
+[28-Jul-2020 16:19:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:19:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:19:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:22:49 UTC] PHP Notice:  Undefined variable: nub in /var/www/php.learn/basket.php on line 15
+[28-Jul-2020 16:22:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:22:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:22:50 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:22:51 UTC] PHP Notice:  Undefined variable: nub in /var/www/php.learn/basket.php on line 15
+[28-Jul-2020 16:22:51 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:22:51 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:22:51 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:22:52 UTC] PHP Notice:  Undefined variable: nub in /var/www/php.learn/basket.php on line 15
+[28-Jul-2020 16:22:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:22:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:22:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:22:54 UTC] PHP Notice:  Undefined variable: nub in /var/www/php.learn/basket.php on line 15
+[28-Jul-2020 16:22:54 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:22:54 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:22:54 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:24:27 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:24:27 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:24:27 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:24:28 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:24:28 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:24:28 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:25:27 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:25:27 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:25:27 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:25:29 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:25:29 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:25:29 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:25:30 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:25:30 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:25:30 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:25:31 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:25:31 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:25:31 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:15 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:15 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:15 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:15 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:15 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:15 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:16 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:16 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:16 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:19 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:19 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:19 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:21 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:21 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:21 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:21 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:21 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:21 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:22 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:22 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:22 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:26:22 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:26:22 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:26:22 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:33:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:33:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:33:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:33:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:33:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:33:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 16:36:14 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:135
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:36:14 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 16:36:14 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:135
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 135
+[28-Jul-2020 16:36:47 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:36:47 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:36:47 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:37:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:37:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:37:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:37:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 16:37:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 16:37:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 16:51:20 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /var/www/php.learn/index.php on line 182
+[28-Jul-2020 16:54:44 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /var/www/php.learn/index.php on line 182
+[28-Jul-2020 16:55:00 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /var/www/php.learn/index.php on line 182
+[28-Jul-2020 16:58:19 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /var/www/php.learn/index.php on line 182
+[28-Jul-2020 17:06:17 UTC] PHP Parse error:  syntax error, unexpected '+', expecting ']' in /var/www/php.learn/index.php on line 182
+[28-Jul-2020 17:08:11 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:08:11 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:08:11 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:08:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:08:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:08:12 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:35:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:35:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:35:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:37:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:37:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:37:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:53:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:53:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:53:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:53:20 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:53:20 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:53:25 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:53:25 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:53:25 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:55:53 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:55:53 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:55:53 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:18 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:56:18 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:18 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:24 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:56:24 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:56:24 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:57:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:57:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:57:13 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:57:13 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:57:13 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:57:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:57:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:57:14 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:57:14 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:57:14 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:58:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:58:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:58:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:58:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:58:04 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:58:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:58:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:58:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:58:18 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:18 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:19 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:58:19 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:58:19 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:58:19 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:19 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:43 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:58:43 UTC] PHP Notice:  Undefined variable: count in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:58:43 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/php.learn/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 95
+[28-Jul-2020 17:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 17:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 17:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 17:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 18:00:36 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 18:00:36 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 18:00:36 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 18:00:37 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 26
+[28-Jul-2020 18:00:37 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 31
+[28-Jul-2020 18:00:37 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 42
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:26:06 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 287
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:57 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:28:58 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 291
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:17 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285

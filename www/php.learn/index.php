@@ -1,6 +1,7 @@
 <?php
 
   include 'config.php';
+  include 'library.php';
   $publisher = ['Издатель 1', 'Издатель 2', 'Издатель 3'];
 
   $page = 'index';
@@ -49,17 +50,19 @@
 
   $categories = ['Категория 1', 'Категория 2', 'Категория 3', 'Категория 4'];
   
-  $lastName = 'Пупкин';
-  $email = 'some@some.ru';
-  $address = 'г. Москва';
+  $firstName = getParam('firstName');
+  $lastName = getParam('lastName');
+  $email = getParam('email');
+  $address = getParam('address');
 
-  $order = '';
-  $order .= $firstName . '|';
-  $order .= $lastName . '|';
-  $order .= $email . '|';
-  $order .= $address . '\n';
-
-  $order = "$firstName|$lastName|$email|$address\n";
+  if( !saveOrder(
+    $firstName,
+    $lastName,
+    $email,
+    $address
+  )){
+    $flash[] = 'Проблема с оформлением заказа';
+  }
 
 // запрос на вставку данных по книге в БД
 // $query = "INSERT INTO book VALUES (NULL, 'Автор', 'Название книги', 456, 'Описание', 'Категория')";
@@ -153,31 +156,6 @@ A;
       echo '</ul>';
     }
   ?>
-    <!--ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="<?= $menu['Доставка']?>">Доставка</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="<?= $menu['Контакты']?>">Контакты</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="<?= $menu['Войти']?>">Войти</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="<?= $menu['Корзина']?>">Корзина</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="<?= $menu['Dropdown']['Action1']?>">Action</a>
-          <a class="dropdown-item" href="<?= $menu['Dropdown']['Action2']?>">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-    </ul-->
 
   </div>
   </div>
@@ -193,17 +171,7 @@ A;
   <div class="row">
   <?php
     if( count($categories) ) {
-      $i = 0;
-      while( $i < count($categories) ){
-        echo "<a class=\"dropdown-item\" href=\"#\">" . $categories[$i] ."</a>";
-        $i++;
-      }
-  ?>
-    <!--a class="dropdown-item" href="#"><?= $categories[0] ?></!--a>
-    <a class="dropdown-item" href="#"><?= $categories[0] ?></a>
-    <a class="dropdown-item" href="#"><?= $categories[0] ?></a>
-    <a-- class="dropdown-item" href="#"><?= $categories[0] ?></a-->
-  <?php
+      echo renderCategories($categories);
     } else {
   ?>
     <a class="dropdown-item" href="#">Эелементов нет</a>
@@ -236,14 +204,7 @@ A;
   <ul class="list-group col-md-12 col-sm-12">
   <?php
   if( $length = count($publisher) ){
-    for($i = 0; $i < $length; ++$i ){
-      echo <<<LI
-    <li class="list-group-item">
-      <input type="checkbox"  id="exampleCheck{$i}" name="publisher[]" value="{$i}">
-      <label class="form-check-label" for="exampleCheck{$i}"> {$publisher[$i]} </label>
-    </li>
-LI;
-    }
+      echo renderPublisher($publisher);
   ?>
     <li class="list-group-item">
       <button type="button" class="btn btn-success">Найти</button>    
@@ -268,12 +229,13 @@ LI;
 
   <?php
 
+  $page = 'basket';
   switch( $page ){
-    case 'index' : echo '<h1>Каталог</h1>'; break;
-    case 'delivery' : echo '<h1>Доставка</h1>'; break;
-    case 'contacts' : echo '<h1>Контакты</h1>'; break;
-    case 'login' : echo '<h1>Вход</h1>'; break;
-    case 'basket' : echo '<h1>Корзина</h1>'; break;
+    case 'index' : include("inc/$page.php"); break;
+    case 'delivery' : include("inc/$page.php"); break;
+    case 'contacts' : include("inc/$page.php"); break;
+    case 'login' : include("inc/$page.php"); break;
+    case 'basket' : include("inc/$page.php"); break;
     default: echo '<h1>Страницы не найдена</h1>';
   }
 
@@ -282,7 +244,7 @@ LI;
   echo $i, ' ', $i < 10;
 
   $i = 0;
-  foreach( $books as list($idbook, $title, $author, $description, $price) ){
+  foreach( $books as $book ){
     if($i % 3 == 0){
       echo '<div class="card-deck">';
       $i = 0;
@@ -292,9 +254,9 @@ LI;
     <div class="card">        
       <div class="card-body">
         <img src="http://placehold.it/150x220"  alt="...">
-        <h3 class="card-title">{$price}руб</h3>
-        <p class="card-text"><small class="text-muted">Автор: {$author}</small></p>
-        <p class="card-text">{$description} <a href="#">Полезное</a></p>
+        <h3 class="card-title">{$book['price']}руб</h3>
+        <p class="card-text"><small class="text-muted">Автор: {$book['author']}</small></p>
+        <p class="card-text">{$book['description']} <a href="#">Полезное</a></p>
       </div>
       <div class="card-footer">
         <button type="button" class="btn btn-primary">В корзину</button>

@@ -7,3 +7,5 @@ define('DBHOST', 'localhost');
 define('DBLOGIN', 'root');
 define('DBPASS', 'root');
 define('DBNAME', 'eshop');
+
+define('ORDERS', 'orders.txt');

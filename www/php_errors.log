@@ -534,3 +534,396 @@ Stack trace:
 [28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
 [28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
 [28-Jul-2020 18:37:18 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:01 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 57
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 62
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 73
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:49:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 285
+[29-Jul-2020 15:56:59 UTC] PHP Warning:  require_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:56:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'library.php' (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:57:40 UTC] PHP Warning:  include_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:57:40 UTC] PHP Warning:  include_once(): Failed opening 'library.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:57:40 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 15:57:40 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 15:57:40 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderCategories() in /var/www/php.learn/index.php:197
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 197
+[29-Jul-2020 15:57:40 UTC] PHP Warning:  include_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:57:40 UTC] PHP Warning:  include_once(): Failed opening 'library.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:57:40 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 15:57:40 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 15:57:40 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderCategories() in /var/www/php.learn/index.php:197
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 197
+[29-Jul-2020 15:59:20 UTC] PHP Warning:  include_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:59:20 UTC] PHP Warning:  include_once(): Failed opening 'library.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 15:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 15:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 15:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderCategories() in /var/www/php.learn/index.php:197
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 197
+[29-Jul-2020 15:59:20 UTC] PHP Warning:  include_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:59:20 UTC] PHP Warning:  include_once(): Failed opening 'library.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 15:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 15:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 15:59:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 15:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderCategories() in /var/www/php.learn/index.php:197
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 197
+[29-Jul-2020 16:09:35 UTC] PHP Warning:  include_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 16:09:35 UTC] PHP Warning:  include_once(): Failed opening 'library.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 16:09:35 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 16:09:35 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 16:09:35 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 16:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderCategories() in /var/www/php.learn/index.php:197
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 197
+[29-Jul-2020 16:09:36 UTC] PHP Warning:  include_once(library.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 16:09:36 UTC] PHP Warning:  include_once(): Failed opening 'library.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 4
+[29-Jul-2020 16:09:36 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 16:09:36 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 16:09:36 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 16:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function renderCategories() in /var/www/php.learn/index.php:197
+Stack trace:
+#0 {main}
+  thrown in /var/www/php.learn/index.php on line 197
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 58
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 63
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 74
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:11:20 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 276
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:05 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:06 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:33 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:12:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:34 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:13:35 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:02 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:14:03 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 277
+[29-Jul-2020 16:17:48 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:48 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:48 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:48 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:48 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:49 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:49 UTC] PHP Notice:  Undefined offset: 1 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:49 UTC] PHP Notice:  Undefined offset: 2 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:49 UTC] PHP Notice:  Undefined offset: 3 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:17:49 UTC] PHP Notice:  Undefined offset: 4 in /var/www/php.learn/index.php on line 278
+[29-Jul-2020 16:25:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /var/www/php.learn/index.php on line 240
+[29-Jul-2020 16:25:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /var/www/php.learn/index.php on line 240
+[29-Jul-2020 16:55:22 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:55:22 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:55:22 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:55:22 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:55:22 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to saveOrder() must be of the type string, null given, called in /var/www/php.learn/index.php on line 59 and defined in /var/www/php.learn/library.php:54
+Stack trace:
+#0 /var/www/php.learn/index.php(59): saveOrder(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /var/www/php.learn/library.php on line 54
+[29-Jul-2020 16:56:26 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:56:26 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:56:26 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:56:26 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 70
+[29-Jul-2020 16:56:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to saveOrder() must be of the type string, null given, called in /var/www/php.learn/index.php on line 59 and defined in /var/www/php.learn/library.php:54
+Stack trace:
+#0 /var/www/php.learn/index.php(59): saveOrder(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /var/www/php.learn/library.php on line 54
+[29-Jul-2020 17:27:22 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:22 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:22 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:22 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:22 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to saveOrder() must be of the type string, null given, called in /var/www/php.learn/index.php on line 59 and defined in /var/www/php.learn/library.php:54
+Stack trace:
+#0 /var/www/php.learn/index.php(59): saveOrder(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /var/www/php.learn/library.php on line 54
+[29-Jul-2020 17:27:25 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:25 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:25 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:25 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:25 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to saveOrder() must be of the type string, null given, called in /var/www/php.learn/index.php on line 59 and defined in /var/www/php.learn/library.php:54
+Stack trace:
+#0 /var/www/php.learn/index.php(59): saveOrder(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /var/www/php.learn/library.php on line 54
+[29-Jul-2020 17:27:26 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:26 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:26 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:26 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:27:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to saveOrder() must be of the type string, null given, called in /var/www/php.learn/index.php on line 59 and defined in /var/www/php.learn/library.php:54
+Stack trace:
+#0 /var/www/php.learn/index.php(59): saveOrder(NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /var/www/php.learn/library.php on line 54
+[29-Jul-2020 17:29:04 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:04 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:04 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:04 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:05 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:05 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:05 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:29:05 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:03 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:03 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:03 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:03 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:04 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:04 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:04 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:04 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:23 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:23 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:23 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:23 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:24 UTC] PHP Notice:  Undefined index: firstName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:24 UTC] PHP Notice:  Undefined index: lastName in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:24 UTC] PHP Notice:  Undefined index: email in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 17:30:24 UTC] PHP Notice:  Undefined index: address in /var/www/php.learn/library.php on line 75
+[29-Jul-2020 18:11:43 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 233
+[29-Jul-2020 18:11:43 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 233
+[29-Jul-2020 18:11:44 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 233
+[29-Jul-2020 18:11:44 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 233

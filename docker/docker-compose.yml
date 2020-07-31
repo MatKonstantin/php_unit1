@@ -20,6 +20,7 @@ services:
             - ../www:/var/www
             - ../logs/php/access.log:/var/log/access.log
             - ../logs/php/error.log:/var/log/error.log
+            - ./php/php.ini:/usr/local/etc/php/conf.d/40-custom.ini
 
     mysql:
         image: mariadb:latest

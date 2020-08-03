@@ -1,6 +1,3 @@
-<div class="container">
-<h1>Доставка</h1>
-
 <div class="row">
   <div class="col-md-6">
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt explicabo labore totam quaerat nulla consequatur, quisquam quos voluptate. Labore soluta sequi at ratione? Quidem eveniet temporibus nemo iste delectus culpa?</p>
@@ -15,7 +12,4 @@
     <p>Vero odio accusantium totam incidunt? Tenetur adipisci veritatis laborum beatae animi esse rerum temporibus sapiente quae deleniti, eos incidunt, ratione, asperiores quidem. Excepturi quod sit voluptatem sint. Totam, accusamus consequatur.</p>
   </div>
 
-</div>
-
-  
 </div>

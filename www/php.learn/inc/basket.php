@@ -25,33 +25,32 @@ echo " ${num} ${word} ";
 
 ?>
 
-<div class="container">
   <div class="py-5 text-center">
-    <h2>Оформление заказа</h2>
     <p class="lead">Внимательно заполните поля формы, проверьте корректность введённых данных и позиции товаров и их количество.</p>
   </div>
-
+  <form class="form" method="POST">
   <div class="row">
     <div class="col-md-6 order-md-2 mb-4">
       <h4 class="d-flex justify-content-between align-items-center mb-3">
         <span class="text-muted">Корзина</span>
         <span class="badge badge-secondary badge-pill">
-          <?= count($basket) ? count($basket) : 'товаров в корзине нет' ?>
+          <?= $counter ? $counter : 'товаров в корзине нет' ?>
         </span>
       </h4>
       <ul class="list-group mb-3">
         <?php
-          if( count($basket) ):
-            foreach( $basket as $id => $quantity ){
-              calcAmount( 1550 * $quantity );
+          $booksBasket = getBooksByBasket();
+          if( count($_SESSION['basket']) ):
+            foreach( $_SESSION['basket'] as $id => $quantity ){
+              calcAmount( $booksBasket[$id]['price'] * $quantity );
         ?>
         <li class="list-group-item d-flex justify-content-between lh-condensed">
           <div>
-            <h6 class="my-0">Название первой книги </h6>
+            <h6 class="my-0"><?= $booksBasket[$id]['title']?></h6>
             <small class="text-muted">краткое необходимое описание</small>
           </div>
-          <span class="text-muted">1500руб. * <?= $quantity ?>шт</span>
-          <span class="text-muted"><?= 1500 * $quantity ?>руб.</span>
+          <span class="text-muted"><?= $booksBasket[$id]['price']?>руб. * <?= $quantity ?>шт</span>
+          <span class="text-muted"><?= $booksBasket[$id]['price'] * $quantity ?>руб.</span>
           <span ><a href="?del=<?= $id ?>" class="btn btn-success btn-sm ">Удалить</a></span>
         </li>
         <?php
@@ -72,14 +71,14 @@ echo " ${num} ${word} ";
         <div class="row">
           <div class="col-md-6 mb-3">
             <label for="firstName">Имя</label>
-            <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+            <input type="text" class="form-control" id="firstName" name="firstName" placeholder="" value="" required>
             <div class="invalid-feedback">
               Укажите корректное имя
             </div>
           </div>
           <div class="col-md-6 mb-3">
             <label for="lastName">Фамилия</label>
-            <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+            <input type="text" class="form-control" id="lastName" name="lastName" placeholder="" value="" required>
             <div class="invalid-feedback">
               Укажите корректную фамилию
             </div>
@@ -88,7 +87,7 @@ echo " ${num} ${word} ";
 
         <div class="mb-3">
           <label for="email">Email <span class="text-muted">(опционально)</span></label>
-          <input type="email" class="form-control" id="email" placeholder="you@example.com">
+          <input type="email" class="form-control" id="email" name="email" placeholder="you@example.com">
           <div class="invalid-feedback">
             Укажите корректный email 
           </div>
@@ -96,7 +95,7 @@ echo " ${num} ${word} ";
 
         <div class="mb-3">
           <label for="address">Адрес доставки</label>
-          <input type="text" class="form-control" id="address" placeholder="город, улица, дом, квартира" required>
+          <input type="text" class="form-control" name="address" id="address" placeholder="город, улица, дом, квартира" required>
           <div class="invalid-feedback">
             Укажите адрес доставки
           </div>
@@ -107,4 +106,4 @@ echo " ${num} ${word} ";
       </form>
     </div>
   </div>
-</div>
+  </form>

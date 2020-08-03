@@ -1,21 +1,82 @@
 <?php
 
+  session_start();
+
   include 'config.php';
-  include 'library.php';
-  $publisher = ['Издатель 1', 'Издатель 2', 'Издатель 3'];
+  include_once 'library.php';
 
-  $page = 'index';
+  if( !isset( $_SESSION['basket'] ) ){
+    $_SESSION['basket'] = [];
+  }
 
-  $menu = [
-    'Доставка' => 'delivery.php',
-    'Контакты' => 'contacts.php',
-    'Войти' => 'login.php',
-    'Корзина' => 'basket.php',
-    'Dropdown' => [
-      'Action1' => 'action1.php',
-      'Action2' => 'action2.php'
-    ]
-  ];
+  if( !empty($_GET['add']) ){
+    $add = (int) $_GET['add'];
+    $_SESSION['basket'][$add]++;
+    header('Location: /');
+    die;
+  }
+  if( !empty($_GET['del']) ){
+    $del = (int) $_GET['del'];
+    $_SESSION['basket'][$del]--;
+    if($_SESSION['basket'][$del] <= 0) unset($_SESSION['basket'][$del]);
+    header('Location: /?page=basket');
+    die;
+  }
+
+  $counter = 0;
+
+  foreach( $_SESSION['basket'] as $key => $val){
+    $counter += $val;
+  }
+
+
+  if( $_SERVER['REQUEST_METHOD'] == 'POST' ){
+  
+    $firstName = postParam('firstName');
+    $lastName = postParam('lastName');
+    $email = postParam('email');
+    $address = postParam('address');
+
+    $alert = false;
+    if( !$firstName ) {
+      $alert = true;
+      $flash['firstName'] = "Не заполнено поле <strong>firstName</strong>";
+    }
+    if( !$lastName ) {
+      $alert = true;
+      $flash['lastName'] = "Не заполнено поле <strong>lastName</strong>";
+    }
+    if( !$email ) {
+      $alert = true;
+      $flash['email'] = "Не заполнено поле <strong>email</strong>";
+    }
+    if( !$address ){
+      $alert = true;
+      $flash['address'] = "Не заполнено поле <strong>address</strong>";
+    }
+    
+
+    if( !$alert && !saveOrder(
+      $firstName,
+      $lastName,
+      $email,
+      $address
+    )){
+      $flash[] = 'Проблема с оформлением заказа';
+    }
+
+    // запрос на вставку данных по книге в БД
+    // $query = "INSERT INTO book VALUES (NULL, 'Автор', 'Название книги', 456, 'Описание', 'Категория')";
+    // $author = 'Тестовый автор';
+    // $title = 'Название книги';
+    // $price = 678;
+    // $description = '';
+    // $category = 'Классика';
+    // $query = "INSERT INTO book VALUES (NULL, '$author', '$title', $price, '$description', '$category')";
+
+    // $successOrder = "$firstName! Заказ оформлен!";
+    // $isPost = false;
+  }
 
   $book = [
     'idbook' => 123,
@@ -48,33 +109,27 @@
     'price' => 1500
   ];
 
+
+  $publisher = ['Издатель 1', 'Издатель 2', 'Издатель 3'];
+
+  $page = getParam('page');
+  $page = $page ?: 'index';
+
+  $menu = [
+    'Доставка' => '?page=delivery',
+    'Контакты' => '?page=contacts',
+    'Войти' => '?page=login',
+    'Корзина' => '?page=basket',
+    'Dropdown' => [
+      'Action1' => '?page=action1',
+      'Action2' => '?page=action2'
+    ]
+  ];
+
   $categories = ['Категория 1', 'Категория 2', 'Категория 3', 'Категория 4'];
+
   
-  $firstName = getParam('firstName');
-  $lastName = getParam('lastName');
-  $email = getParam('email');
-  $address = getParam('address');
 
-  if( !saveOrder(
-    $firstName,
-    $lastName,
-    $email,
-    $address
-  )){
-    $flash[] = 'Проблема с оформлением заказа';
-  }
-
-// запрос на вставку данных по книге в БД
-// $query = "INSERT INTO book VALUES (NULL, 'Автор', 'Название книги', 456, 'Описание', 'Категория')";
-$author = 'Тестовый автор';
-$title = 'Название книги';
-$price = 678;
-$description = '';
-$category = 'Классика';
-$query = "INSERT INTO book VALUES (NULL, '$author', '$title', $price, '$description', '$category')";
-
-$successOrder = "$firstName! Заказ оформлен!";
-$isPost = false;
 ?>
 <!doctype html>
 <html lang="en">
@@ -131,10 +186,13 @@ $isPost = false;
       echo '<ul class="navbar-nav mr-auto">';
       
       foreach($menu as $textLink => $url){
+
+        $badgeCounter = $textLink == 'Корзина' ? "<span class='badge badge-secondary'> $counter </span>" : "";
+
         if( is_string($url)){
           echo <<<LI
           <li class="nav-item active">
-            <a class="nav-link" href="$url">$textLink</a>
+            <a class="nav-link" href="$url">$textLink $badgeCounter</a>
           </li>
 LI;
         } else {
@@ -161,122 +219,22 @@ A;
   </div>
 </nav>
 
+
 <div class="container">
 
-<div class="row">
-<div class="col-md-3 col-sm-3 ">
-        
-  <h4>Категория</h4>
-  
-  <div class="row">
-  <?php
-    if( count($categories) ) {
-      echo renderCategories($categories);
-    } else {
-  ?>
-    <a class="dropdown-item" href="#">Эелементов нет</a>
-  <?php
-    }
-  ?>
-  </div>
- <hr>
-         
- <h4>Цена</h4>
-  
-  <div class="row">
-    <div class="input-group mb-1">
-    <div class="input-group-prepend">
-      <span class="input-group-text" id="inputGroup-sizing-default">от</span>
-    </div>
-    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default"> &nbsp;
-    <div class="input-group-prepend">
-      <span class="input-group-text" id="inputGroup-sizing-sm">до</span>
-    </div>
-    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">&nbsp;
-
-    <button type="button" class="btn btn-success">Найти</button>    
-  </div>
-  </div>
- <hr>  
-  <h4>Издательство</h4>
-
-  <div class="row">
-  <ul class="list-group col-md-12 col-sm-12">
-  <?php
-  if( $length = count($publisher) ){
-      echo renderPublisher($publisher);
-  ?>
-    <li class="list-group-item">
-      <button type="button" class="btn btn-success">Найти</button>    
-    </li>
-  </ul>
-
-  <?php
-    } else {
-  ?>
-    <li class="list-group-item">элементов нет</li>
-  <?php
-    }
-  ?>
-  </div>
- <hr>
-
- 
-</div>
-
-<div class="col-md-9 col-sm-9 ">
-  <!-- h1>Каталог</!-->
-
   <?php
 
-  $page = 'basket';
   switch( $page ){
-    case 'index' : include("inc/$page.php"); break;
-    case 'delivery' : include("inc/$page.php"); break;
-    case 'contacts' : include("inc/$page.php"); break;
-    case 'login' : include("inc/$page.php"); break;
-    case 'basket' : include("inc/$page.php"); break;
+    case 'index' : echo '<h1>Каталог</h1>'; include("inc/$page.php"); break;
+    case 'delivery' : echo '<h1>Доставка</h1>'; include("inc/$page.php"); break;
+    case 'contacts' : echo '<h1>Контакты</h1>'; include("inc/$page.php"); break;
+    case 'login' : echo '<h1>Вход</h1>'; include("inc/$page.php"); break;
+    case 'basket' : echo '<h1>Корзина</h1>'; include("inc/$page.php"); break;
     default: echo '<h1>Страницы не найдена</h1>';
   }
 
-  $i = 0;
-  $i++;
-  echo $i, ' ', $i < 10;
-
-  $i = 0;
-  foreach( $books as $book ){
-    if($i % 3 == 0){
-      echo '<div class="card-deck">';
-      $i = 0;
-    }
-    
-    echo  <<<CARD
-    <div class="card">        
-      <div class="card-body">
-        <img src="http://placehold.it/150x220"  alt="...">
-        <h3 class="card-title">{$book['price']}руб</h3>
-        <p class="card-text"><small class="text-muted">Автор: {$book['author']}</small></p>
-        <p class="card-text">{$book['description']} <a href="#">Полезное</a></p>
-      </div>
-      <div class="card-footer">
-        <button type="button" class="btn btn-primary">В корзину</button>
-      </div>
-    </div>
-CARD;
-
-    echo ($i == 2) ? '</div>' : '';
-  }
-
   ?>
-  
 
-
-</div>
-
-   
-</div>
-
-  
 </div>
 
 <div class="container">

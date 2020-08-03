@@ -927,3 +927,99 @@ Stack trace:
 [29-Jul-2020 18:11:43 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 233
 [29-Jul-2020 18:11:44 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 233
 [29-Jul-2020 18:11:44 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 233
+[31-Jul-2020 16:01:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 77
+[31-Jul-2020 16:01:52 UTC] PHP Notice:  Undefined variable: firstName in /var/www/php.learn/index.php on line 77
+[31-Jul-2020 16:03:11 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:03:11 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:03:19 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:03:19 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:03:19 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:03:19 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:48 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:48 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:50 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:50 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:51 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:51 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:51 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:51 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:53 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:53 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:54 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:54 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:55 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:55 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:56 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:56 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:57 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:09:57 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:10:00 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:10:00 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:10:01 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:10:01 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:10:01 UTC] PHP Warning:  include(inc/index.php): failed to open stream: No such file or directory in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 16:10:01 UTC] PHP Warning:  include(): Failed opening 'inc/index.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/php.learn/index.php on line 234
+[31-Jul-2020 17:40:01 UTC] PHP Notice:  Undefined index: basket in /var/www/php.learn/index.php on line 8
+[31-Jul-2020 17:59:19 UTC] PHP Notice:  Undefined offset: 123 in /var/www/php.learn/index.php on line 19
+[31-Jul-2020 18:01:38 UTC] PHP Notice:  Array to string conversion in /var/www/php.learn/index.php on line 21
+[31-Jul-2020 18:01:39 UTC] PHP Notice:  Array to string conversion in /var/www/php.learn/index.php on line 21
+[31-Jul-2020 18:17:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/php.learn/library.php on line 90
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Undefined offset: 123 in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Undefined offset: 123 in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Undefined offset: 123 in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Undefined offset: 123 in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:17:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Undefined index: add in /var/www/php.learn/index.php on line 19
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/index.php on line 20
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:20:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Undefined index: add in /var/www/php.learn/index.php on line 19
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:20:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:21:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:23:58 UTC] PHP Notice:  Array to string conversion in /var/www/php.learn/inc/basket.php on line 43
+[31-Jul-2020 18:27:13 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /var/www/php.learn/index.php on line 3
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:27:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:27:14 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /var/www/php.learn/index.php on line 3
+[31-Jul-2020 18:27:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /var/www/php.learn/index.php on line 3
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 45
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 49
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 52
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Undefined offset: 0 in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:27:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/php.learn/inc/basket.php on line 53
+[31-Jul-2020 18:27:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /var/www/php.learn/index.php on line 3
+[31-Jul-2020 18:28:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /var/www/php.learn/index.php on line 3
+[31-Jul-2020 18:28:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /var/www/php.learn/index.php on line 3
+[31-Jul-2020 18:29:01 UTC] PHP Notice:  Undefined offset: 345 in /var/www/php.learn/index.php on line 14

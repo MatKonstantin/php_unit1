@@ -74,3 +74,24 @@ function getParam( string $param ): ?string
 {
     return (isset($_GET[$param])) ? str_replace("|","",trim(strip_tags($_GET[$param]))) : null;
 }
+
+function postParam( string $param ): ?string
+{
+    return (isset($_POST[$param])) ? str_replace("|","",trim(strip_tags($_POST[$param]))) : null;
+}
+
+/**
+ * Возвращает массив книг из корзины с ключами номерами книг
+ */
+function getBooksByBasket(): array
+{
+    global $books;
+    $booksBasket = [];
+    foreach( $books as $book ){
+        if( array_key_exists($book['idbook'], $_SESSION['basket'])  ){
+            $booksBasket[$book['idbook']] = $book;
+        }
+    }
+
+    return $booksBasket;
+}
